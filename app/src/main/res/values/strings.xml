@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MarksCalculation</string>
+    <string name="title">Student Marks Calculator</string>
+    <string name="sname">Student Name</string>
+    <string name="marks1">Marks 1</string>
+    <string name="marks2">Marks 2</string>
+    <string name="marks3">Marks 3</string>
+    <string name="total">Total</string>
+    <string name="avg">Average</string>
+    <string name="grade">Grade</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+
+
+
+</resources>
